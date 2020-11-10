@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring.boot.amdin.client.instance.metadata.tags.environment",
+  "type": "java.lang.String",
+  "description": "A description for 'spring.boot.amdin.client.instance.metadata.tags.environment'"
+}]}
